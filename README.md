@@ -1,1 +1,1 @@
-this is a simple project
+This is a simple project
